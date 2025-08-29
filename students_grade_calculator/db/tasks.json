@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bharath",
+    "marks": {
+      "Tamil": 98,
+      "English": 89,
+      "Maths": 80,
+      "ComputerScience": 99,
+      "Chemistry": 89,
+      "Physics": 87
+    },
+    "total": 542,
+    "average": "90.33",
+    "grade": "Grade O"
+  },
+  {
+    "name": "Baskaran ",
+    "marks": {
+      "Tamil": 80,
+      "English": 89,
+      "Maths": 79,
+      "ComputerScience": 90,
+      "Chemistry": 100,
+      "Physics": 88
+    },
+    "total": 526,
+    "average": "87.67",
+    "grade": "Grade A+"
+  }
+]
